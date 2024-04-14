@@ -1,16 +1,8 @@
-import numpy as np
 class Solution:
     def largestLocal(self, grid: List[List[int]]) -> List[List[int]]:
-        x = np.zeros((len(grid)-2, len(grid[0])-2))
-        def get3x3(grid, l,r):
-            y = np.array(grid)
-            ny = y[l:l+3, r:r+3]
-            return np.amax(ny)
-
-        
-        for i in range(len(x)):
-            for j in range(len(x[0])):
-                x[i][j] = get3x3(grid, i,j)
-        return list(x.astype(int))
-
-        
+        n = len(grid)
+        ans = [[0]*(n-2) for _ in range(n-2)]
+        for i in range(n-2): 
+            for j in range(n-2): 
+                ans[i][j] = max(grid[ii][jj] for ii in range(i, i+3) for jj in range(j, j+3))
+        return ans 
