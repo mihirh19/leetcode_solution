@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [1285-balance-a-binary-search-tree](https://github.com/mihirh19/leetcode_solution/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mihirh19/leetcode_solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/mihirh19/leetcode_solution/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/mihirh19/leetcode_solution/tree/master/0283-move-zeroes) |
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
@@ -71,4 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mihirh19/leetcode_solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
