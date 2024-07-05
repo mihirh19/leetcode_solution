@@ -2,7 +2,7 @@ class Solution:
     def minimumAverage(self, nums: List[int]) -> float:
         n = len(nums)//2
         arr =[]
-        for i in range(n):
+        while nums:
             x = max(nums)
             y = min(nums)
             avg = (x+y)/2
