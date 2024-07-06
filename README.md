@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mihirh19/leetcode_solution/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/mihirh19/leetcode_solution/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mihirh19/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/mihirh19/leetcode_solution/tree/master/0198-house-robber) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mihirh19/leetcode_solution/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/mihirh19/leetcode_solution/tree/master/0283-move-zeroes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mihirh19/leetcode_solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
