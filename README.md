@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mihirh19/leetcode_solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/mihirh19/leetcode_solution/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/mihirh19/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mihirh19/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mihirh19/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mihirh19/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mihirh19/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mihirh19/leetcode_solution/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Enumeration
 |  |
