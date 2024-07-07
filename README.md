@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mihirh19/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
+| [3447-clear-digits](https://github.com/mihirh19/leetcode_solution/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mihirh19/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/mihirh19/leetcode_solution/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mihirh19/leetcode_solution/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3447-clear-digits](https://github.com/mihirh19/leetcode_solution/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
+| [3447-clear-digits](https://github.com/mihirh19/leetcode_solution/tree/master/3447-clear-digits) |
 ## Database
 |  |
 | ------- |
