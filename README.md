@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [3469-maximum-height-of-a-triangle](https://github.com/mihirh19/leetcode_solution/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mihirh19/leetcode_solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirh19/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mihirh19/leetcode_solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
@@ -129,4 +130,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/mihirh19/leetcode_solution/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mihirh19/leetcode_solution/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mihirh19/leetcode_solution/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirh19/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirh19/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirh19/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirh19/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
