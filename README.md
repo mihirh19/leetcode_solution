@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mihirh19/leetcode_solution/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/mihirh19/leetcode_solution/tree/master/0283-move-zeroes) |
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
+| [1803-average-waiting-time](https://github.com/mihirh19/leetcode_solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3469-maximum-height-of-a-triangle](https://github.com/mihirh19/leetcode_solution/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mihirh19/leetcode_solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mihirh19/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/mihirh19/leetcode_solution/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/mihirh19/leetcode_solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mihirh19/leetcode_solution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/mihirh19/leetcode_solution/tree/master/3447-clear-digits) |
