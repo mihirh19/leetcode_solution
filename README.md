@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1803-average-waiting-time](https://github.com/mihirh19/leetcode_solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mihirh19/leetcode_solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/mihirh19/leetcode_solution/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mihirh19/leetcode_solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirh19/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mihirh19/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mihirh19/leetcode_solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3447-clear-digits](https://github.com/mihirh19/leetcode_solution/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mihirh19/leetcode_solution/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Linked List
 |  |
 | ------- |
