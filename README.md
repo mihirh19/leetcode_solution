@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mihirh19/leetcode_solution/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/mihirh19/leetcode_solution/tree/master/0283-move-zeroes) |
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
+| [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/mihirh19/leetcode_solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/mihirh19/leetcode_solution/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
+| [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mihirh19/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/mihirh19/leetcode_solution/tree/master/3447-clear-digits) |
 ## Database
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
