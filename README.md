@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
 | [1285-balance-a-binary-search-tree](https://github.com/mihirh19/leetcode_solution/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mihirh19/leetcode_solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mihirh19/leetcode_solution/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mihirh19/leetcode_solution/tree/master/0283-move-zeroes) |
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mihirh19/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mihirh19/leetcode_solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/mihirh19/leetcode_solution/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mihirh19/leetcode_solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mihirh19/leetcode_solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/mihirh19/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mihirh19/leetcode_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mihirh19/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mihirh19/leetcode_solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mihirh19/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
