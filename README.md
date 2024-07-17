@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
 | [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/mihirh19/leetcode_solution/tree/master/1803-average-waiting-time) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mihirh19/leetcode_solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mihirh19/leetcode_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/mihirh19/leetcode_solution/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
