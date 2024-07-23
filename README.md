@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mihirh19/leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/mihirh19/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mihirh19/leetcode_solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mihirh19/leetcode_solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/mihirh19/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mihirh19/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
