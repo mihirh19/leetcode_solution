@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/mihirh19/leetcode_solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
