@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mihirh19/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mihirh19/leetcode_solution/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/mihirh19/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/mihirh19/leetcode_solution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mihirh19/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mihirh19/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mihirh19/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mihirh19/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mihirh19/leetcode_solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mihirh19/leetcode_solution/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/mihirh19/leetcode_solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mihirh19/leetcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mihirh19/leetcode_solution/tree/master/0283-move-zeroes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mihirh19/leetcode_solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mihirh19/leetcode_solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mihirh19/leetcode_solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mihirh19/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
