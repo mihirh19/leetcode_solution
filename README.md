@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mihirh19/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mihirh19/leetcode_solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirh19/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mihirh19/leetcode_solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mihirh19/leetcode_solution/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mihirh19/leetcode_solution/tree/master/0189-rotate-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/mihirh19/leetcode_solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirh19/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mihirh19/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mihirh19/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirh19/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
