@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mihirh19/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mihirh19/leetcode_solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mihirh19/leetcode_solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mihirh19/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mihirh19/leetcode_solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mihirh19/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/mihirh19/leetcode_solution/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/mihirh19/leetcode_solution/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/mihirh19/leetcode_solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mihirh19/leetcode_solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/mihirh19/leetcode_solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirh19/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/mihirh19/leetcode_solution/tree/master/0067-add-binary) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mihirh19/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mihirh19/leetcode_solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mihirh19/leetcode_solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mihirh19/leetcode_solution/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mihirh19/leetcode_solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
