@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mihirh19/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/mihirh19/leetcode_solution/tree/master/1285-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mihirh19/leetcode_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mihirh19/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/mihirh19/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1285-balance-a-binary-search-tree](https://github.com/mihirh19/leetcode_solution/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -31,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mihirh19/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/mihirh19/leetcode_solution/tree/master/1285-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mihirh19/leetcode_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mihirh19/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/mihirh19/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/mihirh19/leetcode_solution/tree/master/1036-rotting-oranges) |
 ## Union Find
