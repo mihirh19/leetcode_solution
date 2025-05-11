@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirh19/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mihirh19/leetcode_solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mihirh19/leetcode_solution/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mihirh19/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mihirh19/leetcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mihirh19/leetcode_solution/tree/master/0283-move-zeroes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/mihirh19/leetcode_solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mihirh19/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mihirh19/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/mihirh19/leetcode_solution/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/mihirh19/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [1619-path-crossing](https://github.com/mihirh19/leetcode_solution/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/mihirh19/leetcode_solution/tree/master/1720-crawler-log-folder) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mihirh19/leetcode_solution/tree/master/3412-permutation-difference-between-two-strings) |
